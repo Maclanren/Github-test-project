@@ -1,2 +1,4 @@
-# Github-test-project
-Learn Github test examples,for your own learing only.
+Origin : https://github.com/
+
+Library modified to work with an **INA226** and to perform a read of Tension/Current/Power in one shot
+
